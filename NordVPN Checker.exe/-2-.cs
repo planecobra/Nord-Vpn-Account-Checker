@@ -13,10 +13,10 @@ using System.Windows.Forms;
 using Colorful;
 using Leaf.xNet;
 
-namespace ?1?
+namespace 1
 {
 	// Token: 0x02000002 RID: 2
-	internal class ?2?
+	internal class 2
 	{
 		// Token: 0x06000001 RID: 1 RVA: 0x0000208C File Offset: 0x0000028C
 		[STAThread]
